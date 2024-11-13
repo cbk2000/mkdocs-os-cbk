@@ -23,6 +23,7 @@ hide:
 
 ```bash
 git init
+git remote add origin <your github repository link>
 git branch -M master
 git add .
 git commit -m "<your message>"
